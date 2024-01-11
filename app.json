@@ -21,10 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.shabeer_sf.steptracker"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c09f098d-5f73-4712-90c2-1fcedc5a892f"
+      }
+    },
+    "owner": "shabeer_sf"
   }
 }
